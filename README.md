@@ -65,7 +65,7 @@
 
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepakgupta2812&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-  <img width="32%" src="https://streak-stats.demolab.com?user=Deepakgupta2812&theme=tokyonight" alt="GitHub Streak Stats"/>
+
   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Deepakgupta2812&show_icons=true&theme=tokyonight" alt="GitHub Stats Card"/>
 </p>
 
