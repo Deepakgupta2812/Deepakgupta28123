@@ -54,20 +54,19 @@
 ### 🏆 GitHub Grade A Profile
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepakGupta&theme=tokyonight" alt="Deepak Gupta GitHub Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepakgupta2812&theme=tokyonight" alt="Deepak Gupta GitHub Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepakGupta&theme=tokyonight" alt="Top Languages"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepakGupta&theme=tokyonight" alt="Most Commit Language"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepakGupta&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepakgupta2812&theme=tokyonight" alt="Top Languages"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepakgupta2812&theme=tokyonight" alt="Most Commit Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepakgupta2812&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepakGupta&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-  <img width="32%" src="https://streak-stats.demolab.com?user=DeepakGupta&theme=tokyonight" alt="GitHub Streak Stats"/>
-
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=DeepakGupta&show_icons=true&theme=tokyonight" alt="GitHub Stats Card"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepakgupta2812&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <img width="32%" src="https://streak-stats.demolab.com?user=Deepakgupta2812&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Deepakgupta2812&show_icons=true&theme=tokyonight" alt="GitHub Stats Card"/>
 </p>
 
 ---
@@ -87,9 +86,6 @@
   <a href="mailto:deepakkumarguptasma28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-   <a href="mailto:deepakkumarguptasma28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -97,4 +93,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C0FF&height=80&section=footer"/>
 </p>
-
