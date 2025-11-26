@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi 👋, I'm **Deepak Gupta**— a passionate Software Engineer and **JAVA Developer** who loves building intelligent systems, scalable web apps, and creative tech solutions.
+Hi 👋, I'm **Deepak Gupta**— a passionate Software Engineer and **JAVA Developer MERN Stack** who loves building intelligent systems, scalable web apps, and creative tech solutions.
 
 💡 I enjoy solving real-world problems using data, automation, and cutting-edge technologies — from backend systems to AI models and full-stack web platforms.<br/>
 ⚙️ Always eager to learn, collaborate, and innovate in the world of technology!
